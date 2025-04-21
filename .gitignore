@@ -1,0 +1,19 @@
+# 編譯檔案
+*.class
+*.jar
+*.war
+*.log
+
+# 編譯輸出目錄
+bin/
+out/
+target/
+
+# IDE 設定
+.vscode/
+.idea/
+*.iml
+
+# 系統自動產生的
+.DS_Store
+Thumbs.db
